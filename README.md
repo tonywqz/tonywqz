@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tonywqz
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning python and temsorflow
+- 🌱 I’m currently learning python and tensorflow
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
